@@ -37,8 +37,9 @@
 </div>
 <br>
 
-## 🛠 Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"/>
+## 🛠 Tech Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"/>
 
+<!--
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -49,30 +50,37 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-
 </div>
+-->
 
----
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,php,mysql,py,git" /><br>
+</div>
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=mstfarhanaakter&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  </td>
-  <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstfarhanaakter&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages"/>
-  </td>
-</tr>
+<table style="background-color: transparent; width: 100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&theme=tokyonight&hide_border=true" height="200" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mstfarhanaakter&theme=aura" height="200" alt="Profile Summary"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstfarhanaakter&layout=compact&theme=tokyonight" width="100%" height="160" alt="Top Languages"/>
+    </td>
+  </tr>
 </table>
 
+
+
 <br>
+
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/>
