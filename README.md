@@ -64,10 +64,10 @@
 <table style="background-color: transparent; width: 100%;">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&theme=tokyonight&hide_border=true" height="200" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&theme=tokyonight&hide_border=true" height="280" alt="GitHub Streak"/>
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mstfarhanaakter&theme=aura" height="200" alt="Profile Summary"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mstfarhanaakter&theme=aura" height="280" alt="Profile Summary"/>
     </td>
   </tr>
   <tr>
