@@ -1,10 +1,11 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mstfarhanaakter&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 <h1 align="center"> Hey Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mstfarhanaakter&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
 
 <!--name
 <p align="center">
@@ -13,7 +14,6 @@
   </a>
 </p>
 -->
-<hr>
 
 
 ## 🚀 About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="60px"/>
