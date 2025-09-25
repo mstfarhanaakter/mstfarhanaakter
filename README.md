@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mstfarhanaakter&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
@@ -42,8 +42,8 @@
 
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=javascript,php,mysql,py,git,wordpress,react,laravel,vuejs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,github,javascript" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,py,git,wordpress,react,laravel,vuejs" /><br>
 </div>
 
 ## 📊 GitHub Stats
@@ -70,4 +70,4 @@
 
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
