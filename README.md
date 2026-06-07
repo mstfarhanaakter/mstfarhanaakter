@@ -19,9 +19,11 @@
 ## 🚀 About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="60px"/>
 <img align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="50%"/>
 
-- 🌱 I’m currently exploring new technologies and sharpening my development skills.
-- 💻 Passionate about Web Development, Design, and Data.
-- 🛠 Always ready to learn and grow in the tech world!
+ 💻 Full Stack Web Application Developer
+- 🌱 Currently improving my frontend and backend skills
+- 🚀 Passionate about building clean and responsive web applications
+- 🛠 Skilled in React, PHP, Laravel, MySQL, JavaScript, and Tailwind CSS
+- 🤝 Open to freelance, remote, and project-based opportunities
 
 <br>
 
